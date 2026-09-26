@@ -1,0 +1,21 @@
+{
+ "dataset": "laya-treino/classificacao_heldout.jsonl",
+ "modelo": "typed-decisions",
+ "metricas": {
+  "product_line[gold]": {
+   "acertos": 43,
+   "total": 46,
+   "accuracy": 0.935
+  },
+  "doc_kind[gold]": {
+   "acertos": 43,
+   "total": 46,
+   "accuracy": 0.935
+  },
+  "ga4_current[gold]": {
+   "acertos": 13,
+   "total": 46,
+   "accuracy": 0.283
+  }
+ }
+}
